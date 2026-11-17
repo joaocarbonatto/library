@@ -1,0 +1,782 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 1
+/Kids [ 4 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+/Outlines 9 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 10 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 6 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 6877
+>>
+stream
+1 0 0 1 0 36 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 739.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Lista de requisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 721.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Requisitos funcionais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 513.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 192.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (C\363digo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 192.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Requisito) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 192.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Caso de uso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 176.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 154.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Cadastrar e gerenciar materiais de diferentes tipos \(livro, revista, outra publica\347\343o\), com) Tj T* (dados comuns \(c\363digo, t\355tulo, ano, quantidade de exemplares\) e espec\355ficos de cada tipo. A) Tj T* (remo\347\343o \351 bloqueada se houver empr\351stimo em aberto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 176.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 138.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 116.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Cadastrar e gerenciar usu\341rios \(nome, CPF ou matr\355cula, telefone, e-mail, tipo\). N\343o permite) Tj T* (CPF ou matr\355cula repetidos. A remo\347\343o \(inativa\347\343o\) \351 bloqueada com empr\351stimo em aberto) Tj T* (ou multa pendente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 138.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 100.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 78.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Registrar empr\351stimos verificando se o material existe, pode ser emprestado e tem exemplar) Tj T* (dispon\355vel, e se o usu\341rio est\341 apto \(sem multa, suspens\343o ou atraso e abaixo do limite\).) Tj T* (Definir a data prevista de devolu\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 100.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 62.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 40.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Registrar devolu\347\365es calculando o atraso, aplicando a penalidade conforme o tipo do) Tj T* (material, registrando dano ou extravio e a quita\347\343o de multas. Atualizar a disponibilidade do) Tj T* (material.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 62.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC04, UC07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Consultar materiais dispon\355veis \(por t\355tulo, autor, tipo ou apenas dispon\355veis\) e o hist\363rico de) Tj T* (empr\351stimos \(por usu\341rio, material, per\355odo ou situa\347\343o\). O usu\341rio s\363 consulta o pr\363prio) Tj T* (hist\363rico.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC05, UC06) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 190 m 498.8976 190 l S
+n 0 0 m 498.8976 0 l S
+.733333 .733333 .733333 RG
+.25 w
+n 0 152 m 498.8976 152 l S
+n 0 114 m 498.8976 114 l S
+n 0 76 m 498.8976 76 l S
+n 0 38 m 498.8976 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 495.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Regras de neg\363cio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 343.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 136.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (C\363digo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 136.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Regra) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 120.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 120.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Prazo de devolu\347\343o: livro 14 dias, revista 7 dias, outra publica\347\343o 5 dias. Professor ganha 7 dias a mais.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 104.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 93.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Atraso de livro: multa de R$ 1,00 por dia. Atraso de revista: multa de R$ 2,00 por dia. Atraso de outra) Tj T* (publica\347\343o: suspens\343o de 2 dias para cada dia de atraso.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Limite de empr\351stimos em aberto: aluno 3, professor 5, externo 2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 61.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 61.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Usu\341rio com multa pendente, suspens\343o ativa ou empr\351stimo em atraso n\343o pode fazer novo empr\351stimo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 45.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 45.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Material marcado como somente consulta local n\343o pode ser emprestado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 29.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 18.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Material danificado gera multa de 50% do valor de reposi\347\343o. Material extraviado gera multa de 100% e o) Tj T* (exemplar sai do acervo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (O c\363digo do material e o CPF ou matr\355cula do usu\341rio s\343o \372nicos.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 134 m 498.8976 134 l S
+n 0 0 m 498.8976 0 l S
+.733333 .733333 .733333 RG
+.25 w
+n 0 118 m 498.8976 118 l S
+n 0 91 m 498.8976 91 l S
+n 0 75 m 498.8976 75 l S
+n 0 59 m 498.8976 59 l S
+n 0 43 m 498.8976 43 l S
+n 0 16 m 498.8976 16 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 325.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Requisitos n\343o funcionais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 310.8701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF01: interface gr\341fica com JOptionPane, n\343o apenas console.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 298.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF02: dados gravados e lidos de arquivos, com listas \(ArrayList\) para manipular os objetos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 285.8701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF03: mensagens claras para erros de valida\347\343o e viola\347\365es de regra, com classe de exce\347\343o pr\363pria.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 273.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF04: modelo orientado a objetos, com classe abstrata e heran\347a.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+6 0 obj
+<<
+/F1 7 0 R
+/F2 8 0 R
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+>>
+endobj
+10 0 obj
+<<
+/Length 6903
+>>
+stream
+1 0 0 1 0 36 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 739.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 12 Tf 14 TL (Lista de requisitos) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 721.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Requisitos funcionais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 513.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 192.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (C\363digo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 192.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Requisito) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 192.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Caso de uso) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 176.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 154.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Cadastrar e gerenciar materiais de diferentes tipos \(livro, revista, outra publica\347\343o\), com) Tj T* (dados comuns \(c\363digo, t\355tulo, ano, quantidade de exemplares, valor de reposi\347\343o\) e) Tj T* (espec\355ficos de cada tipo. A remo\347\343o \351 bloqueada se houver empr\351stimo em aberto.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 176.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 138.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 116.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Cadastrar e gerenciar usu\341rios \(nome, CPF ou matr\355cula, telefone, e-mail, tipo\). N\343o permite) Tj T* (CPF ou matr\355cula repetidos. A remo\347\343o \(inativa\347\343o\) \351 bloqueada com empr\351stimo em aberto) Tj T* (ou multa pendente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 138.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 100.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 78.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Registrar empr\351stimos verificando se o material existe, pode ser emprestado e tem exemplar) Tj T* (dispon\355vel, e se o usu\341rio est\341 apto \(sem multa, suspens\343o ou atraso e abaixo do limite\).) Tj T* (Definir a data prevista de devolu\347\343o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 100.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 62.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 40.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Registrar devolu\347\365es calculando o atraso, aplicando a penalidade conforme o tipo do) Tj T* (material, registrando dano ou extravio e a quita\347\343o de multas. Atualizar a disponibilidade do) Tj T* (material.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 62.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC04, UC07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RF05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 24 Tm /F1 9 Tf 11 TL (Consultar materiais dispon\355veis \(por t\355tulo, autor, tipo ou apenas dispon\355veis\) e o hist\363rico de) Tj T* (empr\351stimos \(por usu\341rio, material, per\355odo ou situa\347\343o\). O usu\341rio s\363 consulta o pr\363prio) Tj T* (hist\363rico.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 430.0315 24.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (UC05, UC06) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 190 m 498.8976 190 l S
+n 0 0 m 498.8976 0 l S
+.733333 .733333 .733333 RG
+.25 w
+n 0 152 m 498.8976 152 l S
+n 0 114 m 498.8976 114 l S
+n 0 76 m 498.8976 76 l S
+n 0 38 m 498.8976 38 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 495.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Regras de neg\363cio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 343.3701 cm
+q
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 2 136.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (C\363digo) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 136.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 9 Tf 11 TL (Regra) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 120.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN01) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 120.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Prazo de devolu\347\343o: livro 14 dias, revista 7 dias, outra publica\347\343o 5 dias. Professor ganha 7 dias a mais.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 104.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN02) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 93.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Atraso de livro: multa de R$ 1,00 por dia. Atraso de revista: multa de R$ 2,00 por dia. Atraso de outra) Tj T* (publica\347\343o: suspens\343o de 2 dias para cada dia de atraso.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN03) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 77.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Limite de empr\351stimos em aberto: aluno 3, professor 5, externo 2.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 61.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN04) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 61.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Usu\341rio com multa pendente, suspens\343o ativa ou empr\351stimo em atraso n\343o pode fazer novo empr\351stimo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 45.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN05) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 45.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (Material marcado como somente consulta local n\343o pode ser emprestado.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 29.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN06) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 18.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 13 Tm /F1 9 Tf 11 TL (Material danificado gera multa de 50% do valor de reposi\347\343o. Material extraviado gera multa de 100% e o) Tj T* (exemplar sai do acervo.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 2 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (RN07) Tj T* ET
+Q
+Q
+q
+1 0 0 1 47.35433 2.5 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 9 Tf 11 TL (O c\363digo do material e o CPF ou matr\355cula do usu\341rio s\343o \372nicos.) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.7 w
+n 0 134 m 498.8976 134 l S
+n 0 0 m 498.8976 0 l S
+.733333 .733333 .733333 RG
+.25 w
+n 0 118 m 498.8976 118 l S
+n 0 91 m 498.8976 91 l S
+n 0 75 m 498.8976 75 l S
+n 0 59 m 498.8976 59 l S
+n 0 43 m 498.8976 43 l S
+n 0 16 m 498.8976 16 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 325.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Requisitos n\343o funcionais) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 310.8701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF01: interface gr\341fica com JOptionPane, n\343o apenas console.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 298.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF02: dados gravados e lidos de arquivos, com listas \(ArrayList\) para manipular os objetos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 285.8701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF03: mensagens claras para erros de valida\347\343o e viola\347\365es de regra, com classe de exce\347\343o pr\363pria.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 273.3701 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9.5 Tf 12.5 TL (- RNF04: modelo orientado a objetos, com classe abstrata e heran\347a.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+xref
+0 11
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000113 00000 n 
+0000000178 00000 n 
+0000000378 00000 n 
+0000007307 00000 n 
+0000007348 00000 n 
+0000007455 00000 n 
+0000007567 00000 n 
+0000007588 00000 n 
+trailer
+<<
+/Size 11
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+14544
+%%EOF
